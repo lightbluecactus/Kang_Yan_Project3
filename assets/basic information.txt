@@ -1,0 +1,94 @@
+Font
+1. Montserrat (available on Google Fonts)
+
+2. Source Sans Pro (available on Google Fonts)
+
+3. Permanent Marker (available on Google Fonts, only for decoration)
+
+
+----------------
+
+Home
+
+container
+width: 1000px;
+ 
+navBar
+height: 80px;
+position: fixed;
+
+logo
+width: 200px;
+height: 60px;
+margin-right:  80px;
+margin-top: 10px;
+
+mainNav
+margin-right: 60px;
+li 
+margin-left: 15px;
+width: 80px;
+height: 25px;
+
+hero
+width: 1000px;
+height: 620px;
+
+heroHeading
+margin-left: 80px;
+
+intro h2 p
+margin-right: 60px;
+padding-bottom: 100px;
+
+joinUs
+position: stick;
+
+product
+padding-left: 280px;
+padding-right: 60px; 
+
+productImg
+width: 200px;
+height: 180px;
+margin: 15px;
+
+productAd
+width: 660px;
+height: 200px;
+
+footerNav
+height: 200px;
+
+--------------------
+
+About
+
+imgWide
+width: 550px;
+height: 270px;
+
+imgNarrow
+width: 300px;
+height: 270px;
+
+margin-left/right: 30px;
+margin-bottom: 50px;
+
+imgBig
+width:880px;
+height: 300px;
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
