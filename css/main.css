@@ -2,3 +2,200 @@
 {
 	display: none;
 }
+
+#container
+{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#mainHeader
+{
+	height: 80px;
+	background-color: #969696;
+	display: flex;
+	flex-direction: row;
+	position: sticky;
+	top: 0;
+}
+
+#logo
+{
+	width: 200px;
+	height: 60px;
+	margin-left: 80px;
+	margin-top: 10px;
+	background-color: #d4d4d4;
+}
+
+#mainNav
+{
+	margin-left: auto;	
+	margin-top: 25px;
+	margin-right: 60px;
+}
+
+#mainNav ul
+{
+	list-style-type: none;
+}
+
+#mainNav ul li
+{
+	display: inline;
+	width: 80px;
+	height: 25px;
+	background-color: #d4d4d4;
+	margin-left: 15px;
+	padding: 5px 10px;
+}
+
+#mainNav ul li a
+{
+	text-decoration: none;
+}
+
+
+
+#hero
+{
+	width: 1000px;
+	height: 620px;
+	background-color: #000;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	color: #fff;
+}
+
+#hero h2
+{
+	margin-left: 60px;
+}
+
+#hero h3
+{
+	margin-left: 60px;
+	margin-bottom: 150px;
+}
+
+#intro
+{
+	width: 1000px;
+	height: 555px;
+	background-color: #d4d4d4;
+}
+
+
+#joinUs
+{
+	position: sticky;
+	top: 120px;
+	width: 120px;
+	height: 150px;
+	background-color: #fff;
+	margin-left: 20px;
+}
+
+#intro *
+{
+	text-align: right;
+	margin-right: 60px;
+	margin-left: 280px;
+}
+
+#gallery
+{
+	width: 1000px;
+	height: 570px;
+	background-color: #969696;
+}
+
+#productList
+{
+	width: 660px;
+	margin-left: 280px;
+	margin-right: 60px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+#productList div
+{
+	width: 200px;
+	height: 180px;
+	background-color: #d4d4d4;
+	margin-top: 60px;
+	margin-bottom: 45px;
+	text-align: center;
+}
+
+#advertise
+{
+	width: 660px;
+	height: 200px;
+	background-color: #d4d4d4;
+	margin-left: 280px;
+	margin-right: 60px;
+}
+
+#mainFooter
+{
+	width: 1000px;
+	height: 200px;
+	background-color: #000;
+	display: flex;
+	flex-direction: row;
+}
+
+#footerLogo
+{
+	width: 200px;
+	height: 60px;
+	background-color: #d4d4d4;
+	margin-left: 80px;
+	margin-top: 70px;
+}
+
+#socialMedia
+{
+	display: flex;
+	flex-direction: column;
+	margin-left: 385px;
+	margin-top: 35px;
+}
+
+#socialMedia ul li
+{
+	width: 30px;
+	height: 30px;
+	background-color: #d4d4d4;
+	margin-bottom: 15px;
+}
+
+#socialMedia ul li a
+{
+	text-decoration: none;
+}
+
+#footerNav
+{
+	display: flex;
+	flex-direction: column;
+	margin-left: 45px;
+	margin-top: 35px;
+}
+
+#footerNav ul li
+{
+	width: 80px;
+	height: 15px;
+	background-color: #d4d4d4;
+	margin-bottom: 12px;
+}
+
+#socialMedia ul li a
+{
+	text-decoration: none;
+}
