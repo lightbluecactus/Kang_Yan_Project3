@@ -195,7 +195,65 @@
 	margin-bottom: 12px;
 }
 
-#socialMedia ul li a
+#footerNav ul li a
 {
 	text-decoration: none;
+}
+
+/* start of about page */
+
+#aboutResource
+{
+	margin: 100px 60px;
+}
+
+#ourTeam
+{
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 50px;
+}
+
+#teamTitle
+{
+	width: 550px;
+	height: 270px;
+	background-color: #d4d4d4;
+}
+
+#teamImg
+{
+	width: 300px;
+	height: 270px;
+	background-color: #d4d4d4;
+	margin-left: 30px;
+}
+
+#history
+{
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 50px;
+}
+
+#historyImg
+{
+	width: 300px;
+	height: 270px;
+	background-color: #d4d4d4;
+}
+
+#historyTitle
+{
+	width: 550px;
+	height: 270px;
+	background-color: #d4d4d4;
+	margin-left: 30px;
+}
+
+#community
+{
+	width: 880px;
+	height: 300px;
+	background-color: #d4d4d4;
 }
